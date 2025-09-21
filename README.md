@@ -42,7 +42,7 @@
 
 <!-- Learning about ... -->
 <h3 align="center">
-  ⚡Technologies & Tools
+  ⚡Technologies & Tools learned
   <br>
   <a href="mailto:tienphamvan2507@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" width="60">
@@ -104,5 +104,8 @@
     <img alt="Gmail" src="https://img.shields.io/badge/API-Postman-FF6C37?logo=postman&logoColor=white" width="100">
   </a>
 </h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pvt25072004&show_icons=true&theme=tokyonight)
+
 <!-- Thanks -->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

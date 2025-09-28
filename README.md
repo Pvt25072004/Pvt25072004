@@ -53,9 +53,6 @@
     <a href="mailto:tienphamvan2507@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" width="80">
   </a>
-  <a href="mailto:tienphamvan2507@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" width="80">
-  </a>
     <a href="mailto:tienphamvan2507@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react" width="70">
   </a>
